@@ -1,15 +1,15 @@
 {
     "IDE": [
         {
-            "version": "0.19",
+            "version": "0.20",
             "Darwin": {
                 "url": "https//github.com/xxxxxxxxxx.app",
                 "sha256": "112233445566"
             },
             "Windows": {
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.19.exe",
-                "sha256": "9fc32b1ccb5a9fffbff660407269b381023f2b4a79ee1cd9356bb0fbf0e30726",
-                "size":12965409
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.20.exe",
+                "sha256": "1bcb8dabad43cd3080c028fd4db0fde3a5e3c201bc3c048e3e5e4436a2d30854",
+                "size":12968489
             }
         }
     ],
@@ -34,10 +34,10 @@
     },
     "examples": [
         {
-            "version": "v0.9",
-            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V0.9.zip",
-            "sha256": "d1a11e02ba45421c75efa0aca7985c78d08b263073144e6a96e8d827c5ce1125",
-            "size":33466
+            "version": "v1.0",
+            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V1.0.zip",
+            "sha256": "c79c603da3e4e5c1126e3401af6c75523eacc0d82947ba990a3c4f35ecac96e6",
+            "size":42096
         }
     ]
 }
