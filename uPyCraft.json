@@ -16,19 +16,19 @@
     "firmware": {
         "esp32": [
             {
-                "version": "v1.8.7-587-g1da8404 on 2017-04-06",
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170406.bin",
-                "sha256": "5fd519ea138a4d67419a9e508a66dfc14d16bfff84df8a40a42dd5403856ee9b",
-                "size":1010016
+                "version": "v1.8.7-964-g62d40e8b-dirty on 2017-06-09",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170618.bin",
+                "sha256": "86f8b6dfd8264ec3f5b0714d8ce2c0e43ad2eefb9423d99905f917fdd74ab9c3",
+                "size":995792
             }
 
         ],
         "esp8266": [
             {
-                "version": "v1.8.7-587-g1da8404 on 2017-04-06",
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp8266-20170406.bin",
-                "sha256": "a1a46bd1aa4cdccd99afbff52dc591ff779ee35778a2f0e27162eeb8f57588bb",
-                "size":573080
+                "version": "v1.9.1-46-g46b849a on 2017-06-23",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp8266-20170623.bin",
+                "sha256": "68bd8d588cad9dafd15e9caf1a248f2212aa32f1f4a0836fb88e73b1ddf26ee6",
+                "size":576896
             }
         ]
     },
