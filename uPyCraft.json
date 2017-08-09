@@ -17,7 +17,7 @@
         "esp32": [
             {
                 "version": "v1.8.7-964-g62d40e8b-dirty on 2017-07-20",
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-2017070.bin",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170720.bin",
                 "sha256": "1ef875ad638a141a98c726a959d29445e2c6ee42700e63c4d9fc5bb3eeb63d3e",
                 "size":1506400
             }
@@ -29,6 +29,14 @@
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp8266-20170721.bin",
                 "sha256": "5105b587979a185481afecc70824ee2fc2f595f7c0018a768757b98d381e44e9",
                 "size":573736
+            }
+        ],
+        "microbit":[
+            {
+                "version": "micro:bit v1.0-b'7259d5e'-dirty on 2017-8-1",
+                "url": "https://git.oschina.net/dfrobot/upycraft/raw/master/mpy-microbit-20170801.hex",
+                "sha256": "0a16d533846c0814ac3e077ba4ad28b06448125b31faffd4ba37f23bf37929e3",
+                "size":703324
             }
         ]
     },
