@@ -1,25 +1,25 @@
 {
     "IDE": [
         {
-            "version": "0.23",
+            "version": "0.27",
             "Darwin": {
                 "url": "https//github.com/xxxxxxxxxx.app",
                 "sha256": "112233445566"
             },
             "Windows": {
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.23.exe",
-                "sha256": "1716519f5c071d8f7d92293c48b47348b04a48c8c676b36f2dd9f3bf1f60e943",
-                "size":13898234
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.27.exe",
+                "sha256": "c1f31603b41fd2e1a8271a2c9d38222d20e0fe0cc2d90b4e54b17d163a35f98e",
+                "size":13925044
             }
         }
     ],
     "firmware": {
         "esp32": [
             {
-                "version": "v1.8.7-964-g62d40e8b-dirty on 2017-07-20",
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170720.bin",
-                "sha256": "1ef875ad638a141a98c726a959d29445e2c6ee42700e63c4d9fc5bb3eeb63d3e",
-                "size":1506400
+                "version": "v1.8.7-964-g62d40e8b-dirty on 2017-08-17",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170817.bin",
+                "sha256": "ed7a258f0b7672ddf0893ee8e23439b19ac983f0b6f076a17eb26638694b66fb",
+                "size":1511360
             }
 
         ],
@@ -33,10 +33,10 @@
         ],
         "microbit":[
             {
-                "version": "micro:bit v1.0-b'7259d5e'-dirty on 2017-8-1",
-                "url": "https://git.oschina.net/dfrobot/upycraft/raw/master/mpy-microbit-20170801.hex",
-                "sha256": "0a16d533846c0814ac3e077ba4ad28b06448125b31faffd4ba37f23bf37929e3",
-                "size":703324
+                "version": "micro:bit v1.0-b'7259d5e'-dirty on 2017-9-7",
+                "url": "https://git.oschina.net/dfrobot/upycraft/raw/master/mpy-microbit-20170907.hex",
+                "sha256": "89d3e83d008391639c0dd72cce78c6629d31d3c7ed1cfd0a2be564c54bcbae2c",
+                "size":706800
             }
         ]
     },
