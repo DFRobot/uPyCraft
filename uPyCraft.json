@@ -1,15 +1,15 @@
 {
     "IDE": [
         {
-            "version": "0.27",
+            "version": "0.28",
             "Darwin": {
                 "url": "https//github.com/xxxxxxxxxx.app",
                 "sha256": "112233445566"
             },
             "Windows": {
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.27.exe",
-                "sha256": "c1f31603b41fd2e1a8271a2c9d38222d20e0fe0cc2d90b4e54b17d163a35f98e",
-                "size":13925044
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.28.exe",
+                "sha256": "fc0aa34ff849a8f4d814eaeb8e49ede8dda6cb2d1481b9d76de6769a0dd043f0",
+                "size":13926062
             }
         }
     ],
