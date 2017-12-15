@@ -1,25 +1,25 @@
 {
     "IDE": [
         {
-            "version": "0.28",
+            "version": "0.29",
             "Darwin": {
                 "url": "https//github.com/xxxxxxxxxx.app",
                 "sha256": "112233445566"
             },
             "Windows": {
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.28.exe",
-                "sha256": "fc0aa34ff849a8f4d814eaeb8e49ede8dda6cb2d1481b9d76de6769a0dd043f0",
-                "size":13926062
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.29.exe",
+                "sha256": "d380cba614c21ce616a2394a7d1bbe08564d01d4ce01f14dc64098c42f095a76",
+                "size":13928055
             }
         }
     ],
     "firmware": {
         "esp32": [
             {
-                "version": "v1.8.7-964-g62d40e8b-dirty on 2017-08-17",
-                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20170817.bin",
-                "sha256": "ed7a258f0b7672ddf0893ee8e23439b19ac983f0b6f076a17eb26638694b66fb",
-                "size":1511360
+                "version": "v1.8.7-964-g62d40e8b-dirty on 2017-11-24",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-fw-esp32-20171124.bin",
+                "sha256": "95d60bff1a64a9d594f2b9cb2eda5e72be74a010a9f02d64bd5cdd1731b71271",
+                "size":1557376
             }
 
         ],
@@ -42,10 +42,10 @@
     },
     "examples": [
         {
-            "version": "v1.5",
-            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V1.5.zip",
-            "sha256": "50d7db7ea60d41e384c9222667b35d50cc5df9ad09fb156459ab303a5214e572",
-            "size":55803
+            "version": "v1.8",
+            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V1.8.zip",
+            "sha256": "c2580e71b5ce9a7d97024eaec89c9805cf8582fc5342ad8edea83aa887e3dac6",
+            "size":63847
         }
     ]
 }
