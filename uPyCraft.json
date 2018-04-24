@@ -10,6 +10,11 @@
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V0.30.exe",
                 "sha256": "0bde2d9ef3c59bde53f9812c0febe849bea1b684453c7f7c5e34e81475629ccc",
                 "size":13865456
+            },
+            "Linux":{
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_linux_V0.30",
+                "sha256": "f3f76880a7d1b984d3972a2081fa099f4366786068b6737c516e945bf5d47626",
+                "size":27401792
             }
         }
     ],
