@@ -42,10 +42,10 @@
     },
     "examples": [
         {
-            "version": "v1.8",
-            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V1.8.zip",
-            "sha256": "c2580e71b5ce9a7d97024eaec89c9805cf8582fc5342ad8edea83aa887e3dac6",
-            "size":63847
+            "version": "v1.9",
+            "url": "https://github.com/DFRobot/uPyCraft/raw/master/examples_V1.9.zip",
+            "sha256": "5eab4d9d3556d0dbb088689e0bc05ca40c548f0d29ceb990c51b3f4144ea8dce",
+            "size":65418
         }
     ]
 }
