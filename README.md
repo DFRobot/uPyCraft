@@ -1,9 +1,9 @@
 # uPyCraft
 ## Documents
 
-Chinese:http://docs.dfrobot.com.cn/upycraft/
+Chinese:http://docs.dfrobot.com.cn/upycraft
 
-English:https://www.gitbook.com/book/dfrobot/upycraft/details
+English:http://docs.dfrobot.com/upycraft
 
 ## Source Files
 

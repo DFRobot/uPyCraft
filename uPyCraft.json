@@ -40,7 +40,7 @@
         "microbit":[
             {
                 "version": "micro:bit v1.0-b'7259d5e'-dirty on 2017-9-7",
-                "url": "https://git.oschina.net/dfrobot/upycraft/raw/master/mpy-microbit-20170907.hex",
+                "url": "https://github.com/DFRobot/uPyCraft/raw/master/mpy-microbit-20170907.hex",
                 "sha256": "89d3e83d008391639c0dd72cce78c6629d31d3c7ed1cfd0a2be564c54bcbae2c",
                 "size":706800
             }
