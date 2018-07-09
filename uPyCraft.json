@@ -4,8 +4,8 @@
             "version": "1.0",
             "Darwin": {
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_mac_V1.0.zip",
-                "sha256": "02db624ef5998a4f32a582537da58165793613dee63cb47bff9728507782d752",
-				"size": 21379472
+                "sha256": "8b9c484490d2a1b813bd8e3cc0085329b25acf25fc573fb1e6dba55723e8bccd",
+				"size": 21381039
             },
             "Windows": {
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V1.0.exe",
