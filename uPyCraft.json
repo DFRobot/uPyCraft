@@ -14,8 +14,8 @@
             },
             "Linux":{
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_linux_V1.0",
-                "sha256": "d95090d1eb5ffd550de13ce7716b7dd74b8df9f8dbb9a0d214799b535a80b919",
-                "size":33261072
+                "sha256": "85cd526d6828363099cf2ec4b6cefe1fe7dcf5985b71ff25eb5a126b8207cceb",
+                "size":27256160
             }
         }
     ],
