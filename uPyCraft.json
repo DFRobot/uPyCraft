@@ -9,8 +9,8 @@
             },
             "Windows": {
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_V1.0.exe",
-                "sha256": "a31b154085f9146745265a9a6c2ebff9b6e7c8eed13ab9737c18646ce0fb8ade",
-                "size":13719786
+                "sha256": "8d1f7e1678216e481333a59fe57c1c29b82f707450b7a72ede22765b21eebf42",
+                "size":13719276
             },
             "Linux":{
                 "url": "https://github.com/DFRobot/uPyCraft/raw/master/uPyCraft_linux_V1.0",
